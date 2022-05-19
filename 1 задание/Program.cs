@@ -6,9 +6,6 @@ namespace _1_задание
     {
         static void Main(string[] args)
         {
-         
-
-
             string firstName;
             string lastName;
             int age;
@@ -19,9 +16,6 @@ namespace _1_задание
             short distanceFromHomeToOffice;
             char theFirstLetterOfTheName;
             bool isHeRightHanded;
-
-
-
         }
     }
 }
