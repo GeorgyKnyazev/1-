@@ -6,13 +6,13 @@ namespace _1_задание
     {
         static void Main(string[] args)
         {
-            string firstName;
+            sbyte temperatureInTheRefrigerator;
             string lastName;
             int age;
             bool isHeAWoman;
             float height;
             byte weight;
-            string eyeColor;
+            uint populationOfTheCountry;
             short distanceFromHomeToOffice;
             char theFirstLetterOfTheName;
             bool isHeRightHanded;
